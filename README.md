@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 Here are some of my notable projects:
 
-- [**WIP**](https://github.com/Quintenvddb/WIP): WIP.
-- [**WIP**](https://github.com/Quintenvddb/WIP): WIP.
-- [**WIP**](https://github.com/Quintenvddb/WIP): WIP.
+- [**WIP**](https://github.com/WhatABeatifulDuwang/UNeedIT): WIP.
+- [**WIP**](https://github.com/WhatABeatifulDuwang/Chirpify): WIP.
+- [**WIP**](https://github.com/WhatABeatifulDuwang/MegaMarket): WIP.
 
 ## 📫 Let's Connect
 
