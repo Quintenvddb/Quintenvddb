@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🛠️ Tech Stack
 
-- **Languages:** PHP,HTML,JAVASCRIPT,CSS,SCSS
+- **Languages:** PHP, HTML, JAVASCRIPT, CSS, SCSS
 - **Frameworks:** Laravel
 - **Tools:** VSCode,SPCE
 - **Databases:** SQL,SQLite
