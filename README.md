@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - **Languages:** PHP, HTML, JAVASCRIPT, CSS, SCSS, C#
 - **Frameworks:** Laravel
 - **Tools:** VSCode, VS, SPCE, PHPStorm, Rider
-- **Databases:** SQL,SQLite
+- **Databases:** PostgreSQL,SQL,SQLite
 
 ## 📈 GitHub Stats
 
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
+- [**Iron Giants**](https://game.irongiants.net/). // Currently under development
 - [**Echoes Of Earth**](https://github.com/SubAmbient/Echoes-Of-Earth).
 - [**Crypts Of Eternity**](https://github.com/SubAmbient/Crypts-of-Eternity).
 - [**UNeedIT**](https://github.com/WhatABeatifulDuwang/UNeedIT).
