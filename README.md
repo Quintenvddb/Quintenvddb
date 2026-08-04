@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 🌱 Currently, I'm learning ASPNET Core, C#
 - 💡 I enjoy solving problems and building innovative solutions.
 - 🎯 My goals include contributing to open-source projects and collaborating with other developers.
-- 📫 How to reach me: Quintenvddb@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 📈 GitHub Stats
 
-![Quinten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubAmbient&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubAmbient&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
 
@@ -30,11 +29,3 @@ Here are some of my notable projects:
 - [**Crypts Of Eternity**](https://github.com/SubAmbient/Crypts-of-Eternity).
 - [**UNeedIT**](https://github.com/WhatABeatifulDuwang/UNeedIT).
 - [**Chirpify**](https://github.com/WhatABeatifulDuwang/Chirpify).
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/quinten-van-den-dungen-bille-a2927a315/)
-- [Twitter](NaN)
-- [Personal Website](NaN)
-
----
