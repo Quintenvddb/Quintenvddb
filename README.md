@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubAmbient&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=SubAmbient&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
 
