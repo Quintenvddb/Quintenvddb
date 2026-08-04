@@ -27,5 +27,3 @@ Here are some of my notable projects:
 - [**Iron Giants**](https://game.irongiants.net/). // Currently under development
 - [**Echoes Of Earth**](https://github.com/SubAmbient/Echoes-Of-Earth).
 - [**Crypts Of Eternity**](https://github.com/SubAmbient/Crypts-of-Eternity).
-- [**UNeedIT**](https://github.com/WhatABeatifulDuwang/UNeedIT).
-- [**Chirpify**](https://github.com/WhatABeatifulDuwang/Chirpify).
